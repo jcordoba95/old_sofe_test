@@ -1,0 +1,17 @@
+{
+  "name": "sofe2020",
+  "version": "0.0.0",
+  "description": "Flight Booking app",
+  "main": "index.js",
+  "dependencies": {
+    "react-router-dom": "latest",
+    "react-scripts": "2.0.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [
+    "2020",
+    "sofe",
+    "nearsoft"
+  ]
+}
